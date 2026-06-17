@@ -3,7 +3,7 @@ layout: page
 permalink: /Teaching Assistant/
 title: teaching
 description: Teaching Assistant experience at the University of Tehran.
-nav: true
+nav: false
 nav_order: 5
 ---
 

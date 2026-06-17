@@ -2,30 +2,26 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Department of Soil Science and Geomorphology, University of Tübingen, Germany.
+subtitle: 
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false 
   more_info: >
-    <p>Room W310, Westbau</p>
-    <p>Rümelinstraße 19 – 23</p>
-    <p>72070 Tübingen, Germany</p>
-    <p><a href="mailto:hadi.shokati@uni-tuebingen.de">hadi.shokati@uni-tuebingen.de</a></p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: true 
+social: true 
 
 announcements:
-  enabled: false # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: false 
+  scrollable: true 
+  limit: 5 
 
 latest_posts:
   enabled: false
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  scrollable: true 
+  limit: 3 
 ---
 
 <style>
@@ -35,15 +31,13 @@ latest_posts:
   }
 </style>
 
-I am a **Soil Scientist** at the **[University of Tübingen, Germany](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/geowissenschaften/arbeitsgruppen/geographie/forschungsbereich/bodenkunde-und-geomorphologie/work-group/people-main-pages/doctoral-students/hadi-shokati/)**, combining **deep learning and remote sensing** to model **soil and environmental processes** in agricultural systems.
-With experience in **UAV photogrammetry, computer vision, and spatial data processing**, I’m passionate about applying **data-driven approaches** to address challenges in **agricultural, environmental, and land monitoring** applications.
+I am an MSc graduate in Biosystems Mechanical Engineering (Renewable Energy) with experience in CFD simulation using ANSYS Fluent and interdisciplinary research in sustainability-oriented technologies. My research focuses on the integration of engineering, digital technologies, and data-driven approaches to develop innovative solutions for environmental and societal challenges.
 
-**I am interested in:**
+I am interested in:
 
-*   **GIS & Remote Sensing:** UAV Photogrammetry, Remote and Proximal Sensing
-*   **Environmental Modelling:** Soil Erosion, Soil Moisture, Hydrology, Weather Forecasting, Climate Change
-*   **Data Science:** Spatial Data Analysis, Deep Learning, Computer Vision
-*   **Agriculture:** Precision Agriculture, Land Monitoring
-
-
-
+* **Artificial Intelligence & Smart Systems:** Machine Learning, Intelligent Decision Support Systems, Automation
+* **Digital Technologies:** Internet of Things (IoT), Digital Twins, Blockchain Applications
+* **Sustainability & Environmental Assessment:** Life Cycle Assessment (LCA), Circular Economy, Sustainable Engineering
+* **Agriculture & Energy Systems:** Precision Agriculture, Agrovoltaics (Agrivoltaics), Renewable Energy Systems
+* **Environmental Technologies:** Smart Waste Management, Resource Efficiency, Sustainable Development
+* **Engineering & Modelling:** CFD Simulation, ANSYS Fluent, Numerical Analysis
