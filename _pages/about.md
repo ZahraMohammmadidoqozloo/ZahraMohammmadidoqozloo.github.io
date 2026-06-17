@@ -12,6 +12,11 @@ profile:
 selected_papers: true 
 social: true 
 
+scholar: 
+  google_scholar_url: "https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=ACrTK9W5qJdRPzwAPqZ86-FN4iaPsYAR0JKm_qD_2zdThZHcb8wgA3IYy0ewXXHja737W1SMjBp7jKpCa8olsw&user=cBuYgbEAAAAJ"
+
+orcid: "https://orcid.org/0000-0002-8482-8336"
+
 announcements:
   enabled: false 
   scrollable: true 
