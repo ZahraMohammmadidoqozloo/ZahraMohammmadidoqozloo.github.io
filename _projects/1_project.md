@@ -135,3 +135,4 @@ The generated data sets can be applied to machine learning-based SE modeling, pr
 <br>
 
 **Status**: Published in CATENA
+<!-- {% cite shokati2025erosionsam %} -->

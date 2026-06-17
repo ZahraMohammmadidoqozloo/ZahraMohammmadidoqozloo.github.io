@@ -131,5 +131,9 @@ Research and Development
 
 
 
+<!-- {% cite shokati2025soilmoisture %}
 
+{% cite shokati2024randomforest %}
+
+{% cite shokati2023uavimagery %} -->
 
