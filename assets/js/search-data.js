@@ -106,7 +106,7 @@ ninja.data = [{
         title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://github.com/hadi1994shokati", "_blank");
+          window.open("https://github.com/ZahraMohammmadidoqozloo", "_blank");
         },
       },{
         id: 'social-scholar',
