@@ -16,13 +16,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-projects",
-          title: "projects",
-          description: "Here you can see a growing collection of my cool projects.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/projects/";
-          },
         },{id: "nav-repositories",
           title: "repositories",
           description: "My GitHub repositories showcasing research projects in remote sensing, machine learning, and geospatial analysis for environmental applications.",
@@ -36,13 +29,6 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
-          },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "Teaching Assistant experience at the University of Tehran.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/Teaching%20Assistant/";
           },
         },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
         
@@ -120,14 +106,14 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/hadi-shokati-7071821a7", "_blank");
+          window.open("https://www.linkedin.com/in/zahra-mohammadi-doqozloo-414b89244", "_blank");
         },
       },{
         id: 'social-researchgate',
         title: 'ResearchGate',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.researchgate.net/profile/Hadi-Shokati/", "_blank");
+          window.open("https://www.researchgate.net/profile/Zahra-Mohammadi-Doqozloo/", "_blank");
         },
       },{
         id: 'social-orcid',
