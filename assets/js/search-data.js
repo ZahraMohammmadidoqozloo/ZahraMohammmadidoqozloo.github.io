@@ -123,13 +123,6 @@ ninja.data = [{
           window.open("https://orcid.org/0000-0003-2833-032X", "_blank");
         },
       },{
-        id: 'social-work',
-        title: 'Work',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/geowissenschaften/arbeitsgruppen/geographie/forschungsbereich/bodenkunde-und-geomorphologie/work-group/people-main-pages/doctoral-students/hadi-shokati/", "_blank");
-        },
-      },{
         id: 'social-rss',
         title: 'RSS Feed',
         section: 'Socials',
