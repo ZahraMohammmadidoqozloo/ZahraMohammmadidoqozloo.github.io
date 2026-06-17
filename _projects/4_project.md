@@ -152,4 +152,3 @@ The developed models provide valuable tools for multiple stakeholders:
 **DOI**: <a href="https://doi.org/10.5194/hess-30-743-2026" target="_blank">10.5194/hess-30-743-2026</a>
 
 **Status**: Published in Hydrology and Earth System Sciences (HESS)
-{% cite shokati2025floodmapping %}
