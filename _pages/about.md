@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile.jpeg
   image_circular: false 
   more_info: >
 
@@ -28,6 +28,7 @@ latest_posts:
   p {
     text-align: justify;
     text-justify: inter-word;
+    line-height: 1.8;
   }
 </style>
 
