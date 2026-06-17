@@ -7,8 +7,7 @@ subtitle:
 profile:
   align: right
   image: profile.jpeg
-  image_circular: false 
-  more_info: >
+  image_circular: false
 
 selected_papers: true 
 social: true 
